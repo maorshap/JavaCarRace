@@ -1,0 +1,3 @@
+In the project, only 1 race is fired each time - which is the race that have at least 3 different cars that the gamblers are put money on
+and if there is more than 1 race that answer to this limitation -> the race that has been invested with the greater amount of money is 
+starting.
