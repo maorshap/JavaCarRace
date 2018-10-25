@@ -1,2 +1,2 @@
 # JavaCarRace
-The project is demonstrate a cars race and gambling application which include multi-threading,back-end server and JavaFX feathers.
+The project is demonstrate a cars racing and a gambling application which include multi-threading,client & back-end server, mysql and JavaFX feathers in MVC design pattren.
